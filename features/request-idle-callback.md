@@ -7,8 +7,8 @@ mdn_url: https://developer.mozilla.org/en-US/docs/Web/API/Window/requestIdleCall
 spec_url: https://w3c.github.io/requestidlecallback/
 spec_repo: https://github.com/w3c/requestidlecallback
 chrome_ref: 5572795866021888
-webkit_ref: Web Animations
 ie_ref: requestIdleCallback
+caniuse_ref: requestidlecallback
 ---
 
 Request a callback when the user agent is idle.
